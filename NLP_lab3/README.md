@@ -41,10 +41,10 @@
 ## 文件目录
 		NLP_lab3
 		│	
-		│  analyse.py				分析标注错误原因
+		│  analyse.py			分析标注错误原因
 		│  MyClass.py 
 		│  README.md
-		│  task1.py					提取训练集特征文件
+		│  task1.py			提取训练集特征文件
 		│  task3_getFeature.py		提取测试集特征文件
 		│  task3_getResult.py		更改测试结果的格式，只保留词以及命名实体标记
 		│
@@ -53,19 +53,19 @@
 		│      README.txt
 		│
 		├─data
-		│  │  evalIOB2.pl 				评价程序
+		│  │  evalIOB2.pl 			评价程序
 		│  │  evaluation_result.txt		评价结果
 		│  │  Genia4EReval1.iob2		测试集标准答案
 		│  │  global_feature.txt		训练集提取的全局特征存储文件
-		│  │  model						模型文件
-		│  │  output.txt				crf_test生成结果
-		│  │  result.txt				只保留词和实体标记的结果
-		│  │  template					crf++模板
-		│  │  test.sh					使用当前model文件对test.txt进行测试
-		│  │  test.txt					测试集提取的特征文件
-		│  │  train.txt					训练集提取的特征文件
+		│  │  model				模型文件
+		│  │  output.txt			crf_test生成结果
+		│  │  result.txt			只保留词和实体标记的结果
+		│  │  template				crf++模板
+		│  │  test.sh				使用当前model文件对test.txt进行测试
+		│  │  test.txt				测试集提取的特征文件
+		│  │  train.txt				训练集提取的特征文件
 		│  │
-		│  ├─CommonUsedWords			通用词
+		│  ├─CommonUsedWords		通用词
 		│  │      list.txt
 		│  │      README.txt
 		│  │
@@ -75,7 +75,7 @@
 		│  │
 		│  ├─JNLPBA2004_eval
 		│  │
-		│  └─StopWordList				停用词
+		│  └─StopWordList		停用词
 		│          README.txt
 		│          swl1.txt
 		│          swl2.txt
