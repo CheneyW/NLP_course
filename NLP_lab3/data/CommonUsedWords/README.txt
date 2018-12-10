@@ -1,0 +1,8 @@
+# from http://www.paulnoll.com/Books/Clear-English/English-3000-common-words.html
+
+3000 Most Commonly Used Words in the English Language (USA)
+
+Discussion of the 3000 Words List
+
+This is a list of the 3000 most commonly used words in American newspapers and popular magazines. We compiled this list by taking forty newspapers and magazines and simply sorting the words and then counting the frequency of the words. We broke them down in groups of 200. The frequency of use is true for the groups but not within the groups. For convenience I sorted the words within each group of 200. Also if you should count the words you would find that there are fewer than 3000 words. Actually there are 2126 words listed. This is true because I removed words that were simply plurals of words. For example "tree" is on the third and fourth hundred-word list so I removed "trees" as somewhat unnecessary. Also I removed some but not all simple regular past tense words where I thought it would serve little purpose. I also removed the regular words duplicated in the "ing" suffix. For example "spell" is there but I removed "spelling" and "spelled". This list is useful for the student who wishes a vocabulary list for simple conversation. It is an excellent base to begin with. It is interesting to note that the list is very contemporary. For example the names Paul and George are on the list. This is no doubt due to Pope Paul and President George Bush at the time the list was compiled. Note that when a word is capitalized it is a person's name, a proper noun or title. For example Miss is a title, while miss is a verb or a noun.
+
